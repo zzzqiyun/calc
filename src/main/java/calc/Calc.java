@@ -1,4 +1,4 @@
-package main.java.calc;
+package calc;
 public class Calc{
   public float a;
   public float b;

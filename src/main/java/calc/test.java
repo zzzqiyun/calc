@@ -1,4 +1,4 @@
-package main.java.calc;
+package calc;
 
 /**
  * Created on 2018/2/27.
